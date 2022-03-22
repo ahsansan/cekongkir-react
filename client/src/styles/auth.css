@@ -1,0 +1,20 @@
+.auth-container {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-form {
+  width: 400px;
+}
+
+.form-auth-input {
+  background-color: antiquewhite;
+  margin-bottom: 10px;
+}
+
+.switch-auth {
+  cursor: pointer;
+}

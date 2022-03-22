@@ -1,0 +1,25 @@
+.header-container {
+  width: 100%;
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.header-logo {
+  flex: 1;
+  text-align: left;
+  cursor: pointer;
+}
+
+.header-menu {
+  flex: 1;
+  text-align: right;
+}
+
+.buttton-header {
+  background-color: aquamarine;
+}
